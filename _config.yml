@@ -1,0 +1,23 @@
+# Site settings
+title: Journal Club
+email: eneskemalergin@gmail.com
+description: "Article Summaries and Personal Notes about papers on different domains"
+logo_location: "http://eneskemalergin.github.io/blog/images/EKE-logo-Red.png"
+
+baseurl: "/journal/" # the subpath of your site, e.g. /blog/
+url: "https://eneskemalergin.github.io" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+
+highlighter: rouge
+
+#Other Global Configuration
+exclude: ['README.md']
+
+excerpt_separator: <!--more-->
+
+#show the jumbotron header on index page
+show_blog_header: true
