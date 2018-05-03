@@ -14,5 +14,5 @@ I will be starting my journey in this journal club-like blog with this article t
 
 ## Introduction
 
-- The statistics of obesity in US (34%) and the deaths caused by it worldwide (3 million), is very powerful reason to gain a better understanding of the factors contributing to obesity-associated morbidities; cardiovascular disease, cancer, and type 2 diabetes mellitus (T2DM).
--
+
+- The statistics of obesity in US (34%) and the deaths caused by it worldwide (3 million) are powerful reason to gain a better understanding of the factors contributing to obesity-associated morbidities; cardiovascular disease, cancer, and type 2 diabetes mellitus (T2DM).
