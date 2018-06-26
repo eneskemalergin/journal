@@ -6,6 +6,16 @@
     content="{{page.title}} {{page.excerpt | strip_html}} {{ site.description }}">
   <title>{% if page.title %} {{ page.title }} - {{ site.title }} {% else %} {{ site.title }} {% endif %}</title>
 
+   <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-118768066-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-118768066-1');
+  </script>
+  
   <!-- stylesheets -->
   <link media="all" href="//netdna.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet">
   <link media="all" href="//netdna.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
