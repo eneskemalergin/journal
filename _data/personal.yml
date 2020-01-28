@@ -10,11 +10,6 @@
 
   #activate the social buttons you like by removing the comment
   social:
-    google:
-      url: "http://plus.google.com/+ENESKEMALERGIN"
-      text: "Google+"
-      btnClass: "btn-google"
-      logo: "fa-google"
     twitter:
       url: "http://twitter.com/eneskemalergin"
       text: "Twitter"
@@ -30,7 +25,11 @@
       text: "GitHub"
       btnClass: "btn-github"
       logo: "fa-github"
-
+    # google:
+    #   url: "http://plus.google.com/+ENESKEMALERGIN"
+    #   text: "Google+"
+    #   btnClass: "btn-google"
+    #   logo: "fa-google"
     # facebook:
     #  url: "http://facebook.com/yourid"
     #  text: "/yourid"
